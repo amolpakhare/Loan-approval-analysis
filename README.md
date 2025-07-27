@@ -72,7 +72,7 @@ Multiple plots are created and compiled into a dashboard-style format:
 ---
 
 ### 📷 Sample Output
-![Dashboard Preview](loan_project_key_takeaways.png)
+![Dashboard Preview]([loan_project_key_takeaways.png](https://github.com/amolpakhare/Loan-approval-analysis/blob/main/loan_dashboard_part1_big.png))
 
 ---
 
